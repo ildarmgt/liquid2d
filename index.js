@@ -680,17 +680,3 @@ window.addEventListener('click', e => {
 // run program loop
 animate()
 
-// sources
-// a bit of everything and trying other expressions:
-// Solution methods for the Incompressible Navier-Stokes Equations (typos here, i used instead of j sometimes)
-// https://web.stanford.edu/class/me469b/handouts/incompressible.pdf
-
-// single pass for speed (no error minimization, so relaxation and limits used)
-//
-
-// maybe later:
-// https://rachelbhadra.github.io/smoke_simulator/index.html
-// Real-Time Fluid Dynamics for Games by Jos Stam
-// HOW TO SOLVE THE NAVIER-STOKES EQUATION - Benk Janos
-// https://ocw.mit.edu/courses/mechanical-engineering/2-29-numerical-fluid-mechanics-spring-2015/lecture-notes-and-references/MIT2_29S15_Lecture19.pdf
-// http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/
