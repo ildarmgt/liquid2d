@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Signika+Negative:300,400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Signika Negative', sans-serif;
+  font-weight: 300;
+  background-color: #1d1d1d;
+  color: white;
+}
+
+canvas {
+  display: block;
+  width: 99vmin;
+  margin: 0 auto;
+}
