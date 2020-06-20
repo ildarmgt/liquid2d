@@ -2,6 +2,8 @@
 
 Live demo: https://codepen.io/ildarmgt/full/ExPgooV (move the mouse over it)
 
+![preview](https://i.imgur.com/gaK4D9f.png)
+
 # Design
 
 Made with visualization as priority
